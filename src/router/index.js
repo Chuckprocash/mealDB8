@@ -5,7 +5,7 @@ import MealDetails from '../views/MealDetails.vue';
 import MealsByname from '../views/MealsByname.vue';
 import MealsByletter from '../views/MealsByletter.vue';
 import MealsByingredients from '../views/MealsByingredients.vue';
-import MealsByingredient from '../views/MealsByingredient.vue';
+// import MealsByingredient from '../views/MealsByIngredient.vue';
 
 const routes = [
     {
